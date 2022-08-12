@@ -7,10 +7,12 @@ Vitis HLS 2021.2、Vivado 2021.2
 This folder includes the jupyter file to be uploaded to the board which has PYNQ architecture
 ## overlay
 This folder includes the bitstream(.bit) and hardware handoff(.hwh) file to be uploaded to the board which has PYNQ architecture
-## src
-This folder includes the source code for Vitis HLS
+## pictures
+This folder includes the jupyter's result pictures
 ## report
 This folder includes the Vitis HLS's C Synthesis report and C/RTL Cosimulation report
+## src
+This folder includes the source code for Vitis HLS
 
 ## Results between CV2 and customized IP
 ### Sharpening an image
