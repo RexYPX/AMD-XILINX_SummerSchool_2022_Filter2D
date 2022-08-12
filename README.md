@@ -11,3 +11,11 @@ This folder includes the bitstream(.bit) and hardware handoff(.hwh) file to be u
 This folder includes the source code for Vitis HLS
 ## report
 This folder includes the Vitis HLS's C Synthesis report and C/RTL Cosimulation report
+
+## Results between CV2 and customized IP
+### Sharpening an image
+![sharpen.jpg](./pictures/sharpen.jpg)
+### Edge detection
+![edge_detection.jpg](./pictures/edge_detection.jpg)
+### Emboss filter
+![emboss_filter.jpg](./pictures/emboss_filter.jpg)
